@@ -22,11 +22,27 @@
 
 - CPU种类:
 
-  Intel: Core ，Itanium、
+  Intel: Core ，Itanium、Pentium、8086
+
+  AMD：Ryzen、Athlon64、Opteron
 
 - 桌面操作系统：
 
   Unix系统:Linux发行版（如Ubuntu、Arch、Centos、Redhat等）、Mac OS X、FreeBSD、Solaris等
 
   类Unix：Windows
+
+- 计算机语言:机器语言---->汇编语言----->高级语言
+
+  汇编语言: 汇编源程序 ---翻译程序---> 目标程序 ---连接程序---> 可执行程序
+
+  编译型语言(高级语言):C/C++、Pascal等    源程序 ---编译程序---> 目标程序 ---连接程序---> 可执行程序
+
+  解释型语言(高级语言):ASP、PHP、Java、JavaScript、Python等     源程序 ---解释程序---> 可执行程序
+
+  面向对象语言：几乎当代所有的高级语言都是面向对象的（C语言除外，C++面向对象）（世界上第二个面向对象语言是Smalltalk）
+
+  高级语言的程序可移植性好、汇编语言的精简程度高。
+
+
 
